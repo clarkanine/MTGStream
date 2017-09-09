@@ -51,6 +51,6 @@ match to files corresponding to the fields. "Generate Standings" will generate s
 # Configuring with OBS
 In OBS, add a new source of type Text (FreeType 2). Give it a relevant name like "leftLife". This source will be used to keep track
 of the left player's life. Click the "Read From File" checkbox and then browse to the file in the project directory called "dataFiles/leftLife.txt".
-Repeat this process for all of the text fields.
+Repeat this process for all of the text fields and place them wherever you'd like in OBS.
 
 For the image, do the same thing except create a source of type Image.
