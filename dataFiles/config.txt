@@ -1,0 +1,28 @@
+Game Status
+/Users/AaronClark/mtgstream/textfiles/gamestatus.txt
+Standings
+/Users/AaronClark/mtgstream/textfiles/standings.txt
+Ad1
+/Users/AaronClark/mtgstream/textfiles/ad1.txt
+ad2
+/Users/AaronClark/mtgstream/textfiles/ad2.txt
+Rounds
+/Users/AaronClark/mtgstream/textfiles/ad3.txt
+Turns
+/Users/AaronClark/mtgstream/textfiles/turns.txt
+Left Life
+/Users/AaronClark/mtgstream/textfiles/leftlife.txt
+Left Player
+/Users/AaronClark/mtgstream/textfiles/leftplayer.txt
+Left Poison
+/Users/AaronClark/mtgstream/textfiles/leftpoison.txt
+Left Deck
+/Users/AaronClark/mtgstream/textfiles/leftdeck.txt
+Right Life
+/Users/AaronClark/mtgstream/textfiles/rightlife.txt
+Right Player
+/Users/AaronClark/mtgstream/textfiles/rightplayer.txt
+Right Poison
+/Users/AaronClark/mtgstream/textfiles/rightpoison.txt
+Right Deck
+/Users/AaronClark/mtgstream/textfiles/rightdeck.txt
