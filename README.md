@@ -2,6 +2,8 @@
 Software used to aid streaming tabletop magic with OBS
 ## Prerequisites
 For use with OBS which can be downloaded at https://obsproject.com/
+Needs json linked in which can be found at http://www.java2s.com/Code/Jar/j/Downloadjavajsonjar.htm
+To link json, right click on the MTGCardFinder project in eclipse, Build Path > Configure Build Path, go to Libraries tab, Add External Jars and find the jar from the above link
 ## How to use
 Once the project is running, there are 2 different tabs. The "Card Panel" tab is used for modifying
 the current state of the game being streamed,
